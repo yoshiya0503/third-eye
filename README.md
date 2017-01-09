@@ -1,4 +1,7 @@
 # third-eye
+[![node version](https://img.shields.io/badge/node-7.0.x-brightgreen.svg)]
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
+
 third-eye is a SNS investigation tool (twitter facebook instagram and so on...)
 
 # Architecture
